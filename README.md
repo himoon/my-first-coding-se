@@ -1,4 +1,4 @@
-# 혼자 공부하는 첫 프로그래밍 with 파이썬
+# 혼자 공부하는 첫 프로그래밍 with 파이썬(개정판)
 
 <img src="https://raw.githubusercontent.com/himoon/my-first-coding/main/images/book_cover_3d.png" width="600" alt="혼자 공부하는 첫 프로그래밍 with 파이썬 표지">
 
