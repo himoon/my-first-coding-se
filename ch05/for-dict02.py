@@ -1,3 +1,3 @@
-book_list = ["혼자 공부하는 첫 프로그래밍", "혼자 공부하는 파이썬"]
-for book in book_list:
-    print(book)
+coord_list = [33.246225, 126.509279]
+for coord in coord_list:
+    print(coord)

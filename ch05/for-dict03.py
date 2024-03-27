@@ -1,6 +1,3 @@
-book_dict = {
-    "입문자용": "혼자 공부하는 첫 프로그래밍",
-    "초보자용": "혼자 공부하는 파이썬"
-}
-for book in book_dict:
-    print(book)
+coord_dict = {"위도": 33.246225, "경도": 126.509279}
+for key in coord_dict:
+    print(key)
